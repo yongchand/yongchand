@@ -3,6 +3,8 @@
 ### 💬 Ask me anything
 yongchana@gmail.com
 
+###  Check this website for more details
+https://yongchana.notion.site/
 
 <!--
 **yongchand/yongchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
