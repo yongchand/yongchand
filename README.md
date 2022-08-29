@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Chan Hong - Data Engineer @ Klaytn.
+I am the maintainer of [Klaytn-ETL](https://github.com/klaytn/klaytn-etl), and contributor of open source projects like Querybook, Superset and Selenium.
+Feel free to contact me to talk about data-related/blockchain-related stuffs!
+
 ### 💬 Ask me anything
 yongchana@gmail.com
 
