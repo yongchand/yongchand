@@ -8,7 +8,7 @@ Feel free to contact me to talk about data-related/blockchain-related stuffs!
 yongchana@gmail.com
 
 ###  Check this website for more details
-https://yongchana.notion.site/
+https://chanhong.xyz
 
 <!--
 **yongchand/yongchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
