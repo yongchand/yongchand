@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chan Hong - Current SWE @ Cloa-io, and Former Data Engineer @ Klaytn and @ PUBG.
+I am Chan Hong - Current SWE @ Kaldea, and Former Data Engineer @ Klaytn and @ PUBG.
 I am the maintainer of [Klaytn-ETL](https://github.com/klaytn/klaytn-etl), and contributor of open source projects like Querybook, Superset and Selenium.
 Feel free to contact me to talk about data-related/blockchain-related stuffs!
 
